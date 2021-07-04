@@ -9,6 +9,8 @@ Also. You can embed sub-categories list of a category into any cms block or page
 
 Replace category_id with Category ID which subcategories you want to list.
 
+## composer require mgenius/module-subcategories
+
 ### Note: this module has minimum code to show category's sub-categories on category view page.
 
 ![ScreenShot1](https://lh6.googleusercontent.com/zHuV7wHnm3_CyIbcA3eQ0595hR6L7sDet_vWNeSLlbOmpapkzxq22lLLYVNBvs6c4hnYGx57ggGi-A=w1920-h608-rw)
