@@ -3,7 +3,7 @@
     "description": "List Category's Subcategories on Category Page",
     "type": "magento2-module",
     "version": "1.0.0",
-    "minimum-stability": "dev", 
+    "minimum-stability": "stable", 
     "prefer-stable": true,
     "license": [
         "OSL-3.0",
