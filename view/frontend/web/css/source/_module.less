@@ -1,0 +1,35 @@
+& when (@media-common = true) {
+    .category-subcats{
+    	display: flex;flex-wrap: wrap;
+    	> div{
+	        cursor: pointer;
+	        text-align: center;
+	        display: flex;
+	        margin-bottom: 15px;
+	        flex-direction: column;
+	        flex-basis: 48%;
+	        margin-right: auto;
+	        a{
+		        margin-top: 10px;
+		        font-weight: bold;
+		        font-size: 18px;
+		    }
+		    img{
+		        width: 100%;
+		        height: 100%;
+		        object-fit: cover;
+		    }
+	    }
+    }
+    @media (max-width:767px){
+        .category-subcats > div:nth-child(2n) {margin-right: 0;}
+    }
+    @media (min-width:768px) and (max-width:1024px){
+        .category-subcats > div{flex-basis: 30%;}
+        .category-subcats > div:nth-child(3n) {margin-right: 0;}
+    }
+    @media (min-width:1024px){
+        .category-subcats > div{flex-basis: 23%;}
+        .category-subcats > div:nth-child(4n) {margin-right: 0;}
+    }
+}

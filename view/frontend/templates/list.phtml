@@ -1,0 +1,14 @@
+<?php 
+$categories = $block->getChildCategories(); 
+?>
+<?php if($categories->count()): ?>
+    <div class="category-subcats">
+        <?php foreach($categories as $category): ?>
+            <div onclick="window.location.href = '<?= $category->getUrl() ?>'">
+                <img alt='<?= $category->getName(); ?>' src='<?= $this->getImageUrl($category) ?>'/>
+
+                <a href="<?= $category->getUrl() ?>"><?= $category->getName() ?></a>
+            </div>
+        <?php endforeach; ?>
+    </div>
+<?php endif; ?>
