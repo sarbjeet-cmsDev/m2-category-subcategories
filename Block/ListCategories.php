@@ -1,5 +1,5 @@
 <?php
-namespace Genius\Subcategories\Block;
+namespace MGenius\Subcategories\Block;
 
 class ListCategories extends \Magento\Framework\View\Element\Template
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Genius\Subcategories\Setup;
+namespace MGenius\Subcategories\Setup;
 
 use Magento\Catalog\Model\Category;
 use Magento\Catalog\Setup\CategorySetupFactory;
