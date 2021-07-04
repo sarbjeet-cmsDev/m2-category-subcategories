@@ -1,5 +1,5 @@
 {
-    "name": "mgenius/magneto2-module-subcategories",
+    "name": "mgenius/module-subcategories",
     "description": "List Category's Subcategories on Category Page",
     "type": "magento2-module",
     "version": "1.0.0",
