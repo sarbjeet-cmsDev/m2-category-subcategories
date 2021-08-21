@@ -2,8 +2,8 @@
     "name": "mgenius/module-subcategories",
     "description": "List Category's Subcategories on Category Page",
     "type": "magento2-module",
-    "version": "1.0.2",
-    "minimum-stability": "dev",
+    "version": "1.0.3",
+    "minimum-stability": "stable",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "MGenius\\Subcategories\\": ""
+            "Mgenius\\Subcategories\\": ""
         }
     }
 }

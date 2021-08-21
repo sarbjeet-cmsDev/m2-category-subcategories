@@ -5,7 +5,7 @@ You can easily Enable/Disable Child Category Block from Category Edit Page.
 
 Also. You can embed sub-categories list of a category into any cms block or page like this:
 
-###### {{block class="MGenius\Subcategories\Block\ListCategories" before="-" category_id="3" name="home gear category"}}
+###### {{block class="Mgenius\Subcategories\Block\ListCategories" before="-" category_id="3" name="home gear category"}}
 
 Replace category_id with Category ID which subcategories you want to list.
 
