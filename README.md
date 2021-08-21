@@ -13,6 +13,6 @@ Replace category_id with Category ID which subcategories you want to list.
 
 ### Note: this module has minimum code to show category's sub-categories on category view page.
 
-![ScreenShot1](https://lh6.googleusercontent.com/zHuV7wHnm3_CyIbcA3eQ0595hR6L7sDet_vWNeSLlbOmpapkzxq22lLLYVNBvs6c4hnYGx57ggGi-A=w1920-h608-rw)
+![image](https://user-images.githubusercontent.com/19887098/130317127-2aa0b7d0-6baa-4276-8a77-27ffc97212d3.png)
+![image](https://user-images.githubusercontent.com/19887098/130317130-c020141d-5e05-4843-94b6-019a2c244f77.png)
 
-![ScreenShot2](https://lh6.googleusercontent.com/kJhq_kiXmhoQXUZITaM2IEpzfosx4oEO_CeXLtL0T-gftqf-XZSupj3ZmNEvhHXKBhVIJ2FtwCXAFA=w1920-h608-rw)
